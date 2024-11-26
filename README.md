@@ -39,11 +39,12 @@ cuando atacamos a cada obstáculo.
   -Controladores BTS7960: 20.0000$ c/u (MercadoLibre)  (x2)
   -ESP32: 7.329$ c/u (Starware)   (x1)
   -Conexionado y cables: 20.000$ (it&t)
-
+#### Costo total: 187.626$
 ## FALLAS Y COSAS A MEJORAR
   -Problemas en el cálculo de tiempos
   -incumplimientos de los plazos acordados
   -falta de compromiso con el proyecto
-  -
+  -falta de conocimientos previos para un proyecto de este calibre
+  -subestimacion de los demas competidores
   
   
