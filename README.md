@@ -1,2 +1,3 @@
 # BOBBY
-Robot triatlón : seguidor de linea , quita obstáculos, sumo. Este proyecto esta construido por el técnico físico Lautaro Lammers, el doctor en sistemas Lucas Chavez, el Ingeniero en informatico Dante Canale, El baterista en sistemas Iago Botto, y el maestro splinter Falcon 
+### es un robot construido para competir en los juegos bonaerenses, en la categoría de Triatlón( Quita obstaculos - Sumo - Seguidor de linea ), por los estudiantes, Iago Botto, Dante Abel Canale, Lautaro Lammers y Lucas Chavez
+https://v2.api.conholdate.app/download/conversion/137NGXPs2MmgG1/IMG_20240703_164955.md
