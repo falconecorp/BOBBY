@@ -32,13 +32,13 @@ cuando atacamos a cada obstáculo.
 
 ## INFORME DE COSTES
 #### Sensores
-  -Sharp GP2Y0A02YK0F: 10.509$ c/u (starware)  (x5)
-  -Sensores de piso QRE1113GR: 969.37$ c/u (mouser)  (x8)
-  -impresion 3D: 8.000$ (300 gr)
-  -Motores AP&S SP6-260: 26.000$ c/u (AP&S)  (x2)
-  -Controladores BTS7960: 20.0000$ c/u (MercadoLibre)  (x2)
-  -ESP32: 7.329$ c/u (Starware)   (x1)
-  -Conexionado y cables: 20.000$ (it&t)
+  -Sharp GP2Y0A02YK0F: 10.509$ c/u (starware)  (x5)    
+  -Sensores de piso QRE1113GR: 969.37$ c/u (mouser)  (x8)    
+  -impresion 3D: 8.000$ (300 gr)    
+  -Motores AP&S SP6-260: 26.000$ c/u (AP&S)  (x2)    
+  -Controladores BTS7960: 20.0000$ c/u (MercadoLibre)  (x2)    
+  -ESP32: 7.329$ c/u (Starware)   (x1)    
+  -Conexionado y cables: 20.000$ (it&t)    
 #### Costo total: 187.626$
 ## FALLAS Y COSAS A MEJORAR
   -Problemas en el cálculo de tiempos
