@@ -3,4 +3,4 @@
 
 [img_20240703_164955.md](https://github.com/user-attachments/files/17923314/img_20240703_164955.md)
 
-###FUNCIONAMIENTO
+FUNCIONAMIENTO
