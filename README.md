@@ -41,10 +41,22 @@ cuando atacamos a cada obstáculo.
   -Conexionado y cables: 20.000$ (it&t)    
 #### Costo total: 187.626$
 ## FALLAS Y COSAS A MEJORAR
-  -Problemas en el cálculo de tiempos
-  -incumplimientos de los plazos acordados
-  -falta de compromiso con el proyecto
-  -falta de conocimientos previos para un proyecto de este calibre
-  -subestimacion de los demas competidores
+### organización
+  -Problemas en el cálculo de tiempos.    
+  -incumplimientos de los plazos acordados.    
+  -falta de compromiso con el proyecto.    
+  -falta de conocimientos previos para un proyecto de este calibre.    
+  -subestimacion de los demas competidores.    
+
+### programación
+  Sumo: no hubo problemas mayores.    
+  Seguidor de linea:    
+    - dificultades a la hora de modificar valores de PID y varios.    
+    - eleccion de sensores que complicaron las pruebas(QRE1113GR) necesita una distancia con respecto al piso muy pequeña.    
+  Quita Obstáculos:    
+    - no dedicarle tiempo a esta disciplina, lo que nos puso en desventaja con respecto a los otros.    
+    - problemas en la estructura de manejo de sensores.    
+    - problemas en la detección del limite de pista, debido a la altura incorrecta de los QRE1113GR
+  
   
   
